@@ -1,4 +1,3 @@
-![Imagen de mi proyecto de portafolio](blob:https://github.com/8b356105-8200-4465-a89e-7056f1a69d8c)
 # 🌱 Hello! I'm Jesús Vega 👋
 ### Aspiring developer, passionate about sports, healthy living, and artificial intelligence. I’m driven to build applications and websites that contribute to both the tech world and a balanced, sustainable lifestyle.
 
