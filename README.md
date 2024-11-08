@@ -49,8 +49,7 @@ If you have any questions, suggestions, or simply want to chat about web develop
 </br>
 [![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=vegalopez.jesus%40gmail.com&labelColor=black&color=%23EA4335)](mailto:vegalopez.jesus@gmail.com)
 </br>
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](vegalopez.jesus)
-
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com)
 
 I hope you enjoy exploring my repository! Thanks for visiting! 👋
 
@@ -111,8 +110,7 @@ Si tienes preguntas, sugerencias o simplemente quieres charlar sobre desarrollo 
 </br>
 [![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=vegalopez.jesus%40gmail.com&labelColor=black&color=%23EA4335)](mailto:vegalopez.jesus@gmail.com)
 </br>
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](vegalopez.jesus)
-
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com)
 <br>
 
 
