@@ -45,7 +45,7 @@
 If you have any questions, suggestions, or simply want to chat about web development or healthy eating, feel free to contact me through:
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](www.linkedin.com/in/vegajesús)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/vegajesús)
 </br>
 [![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=vegalopez.jesus%40gmail.com&labelColor=black&color=%23EA4335)](mailto:vegalopez.jesus@gmail.com)
 </br>
@@ -107,7 +107,7 @@ I hope you enjoy exploring my repository! Thanks for visiting! 👋
 
 Si tienes preguntas, sugerencias o simplemente quieres charlar sobre desarrollo web o alimentación saludable, no dudes en ponerte en contacto conmigo a través de:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](www.linkedin.com/in/vegajesús)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/vegajesús)
 </br>
 [![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=vegalopez.jesus%40gmail.com&labelColor=black&color=%23EA4335)](mailto:vegalopez.jesus@gmail.com)
 </br>
