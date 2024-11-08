@@ -1,3 +1,4 @@
+![representación de mi proyecto de portafolio](https://github.com/jesusvegal/jesusvegal/raw/refs/heads/main/marcapersonal.web)
 # 🌱 Hello! I'm Jesús Vega 👋
 ### Aspiring developer, passionate about sports, healthy living, and artificial intelligence. I’m driven to build applications and websites that contribute to both the tech world and a balanced, sustainable lifestyle.
 
