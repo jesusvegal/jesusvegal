@@ -1,4 +1,7 @@
 # 🌱 Hello! I'm Jesús Vega 👋
+<figure>
+    <img src="img/marcapersonal.png" alt="marcapersonal" style="float: right;  width: 150px;"> 
+</figure>
 ### Aspiring developer, passionate about sports, healthy living, and artificial intelligence. I’m driven to build applications and websites that contribute to both the tech world and a balanced, sustainable lifestyle.
 
 -  **💻 Full Stack | Training in web and application development, creating intuitive and efficient solutions.**
@@ -57,6 +60,9 @@ I hope you enjoy exploring my repository! Thanks for visiting! 👋
 ------
 
 # 🌱 ¡Hola! Soy Jesús Vega 👋
+<figure>
+    <img src="img/marcapersonal.png" alt="marcapersonal" style="float: right;  width: 150px;"> 
+</figure>
 ### Desarrollador en formación, amante del deporte, la vida saludable y la inteligencia artificial. Me apasiona construir aplicaciones y sitios web que aporten tanto al mundo tech como a un estilo de vida equilibrado y sostenible.
 
 
