@@ -60,10 +60,11 @@ I hope you enjoy exploring my repository! Thanks for visiting! 👋
 
 ------
 
-# 🌱 ¡Hola! Soy Jesús Vega 👋
 <figure>
-    <img src="img/marcapersonal.png" alt="marcapersonal" style="float: right;  width: 150px;"> 
+    <img src="img/marcapersonal.png" alt="marcapersonal" style="relative: right: ;width: 900px; height: 300px"> 
 </figure>
+
+# 🌱 ¡Hola! Soy Jesús Vega 👋
 ### Desarrollador en formación, amante del deporte, la vida saludable y la inteligencia artificial. Me apasiona construir aplicaciones y sitios web que aporten tanto al mundo tech como a un estilo de vida equilibrado y sostenible.
 
 
