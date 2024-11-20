@@ -1,5 +1,5 @@
 <figure>
-    <img src="img/marcapersonal.png" alt="marcapersonal" style="float: right:;  width: 350px;"> 
+    <img src="img/marcapersonal.png" alt="marcapersonal" style="float: right:;  width: 450px;"> 
 </figure>
 
 # 🌱 Hello! I'm Jesús Vega 👋 
