@@ -1,6 +1,6 @@
 # 🌱 Hello! I'm Jesús Vega 👋 
 <figure>
-    <img src="img/marcapersonal.png" alt="marcapersonal" style="float: right;  width: 60%;hight:80%; "> 
+    <img src="img/marcapersonal.png" alt="marcapersonal" style="float: right;  width: 600px;hight:200px; "> 
 </figure>
 
 ### Aspiring developer, passionate about sports, healthy living, and artificial intelligence. I’m driven to build applications and websites that contribute to both the tech world and a balanced, sustainable lifestyle.
