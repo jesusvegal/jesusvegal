@@ -1,5 +1,5 @@
 <figure>
-    <img src="img/marcapersona2.png" alt="marcapersonal" style="relative: right: ;width: 900px; height: 300px"> 
+    <img src="img/marcapersonal2.png" alt="marcapersonal" style="relative: right: ;width: 900px; height: 300px"> 
 </figure>
 
 # 🌱 Hello! I'm Jesús Vega 👋 
@@ -61,7 +61,7 @@ I hope you enjoy exploring my repository! Thanks for visiting! 👋
 ------
 
 <figure>
-    <img src="img/marcapersona2.png" alt="marcapersonal" style="relative: right: ;width: 900px; height: 300px"> 
+    <img src="img/marcapersonal2.png" alt="marcapersonal" style="relative: right: ;width: 900px; height: 300px"> 
 </figure>
 
 # 🌱 ¡Hola! Soy Jesús Vega 👋
